@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LegionCoin Core
+Comment=LegionCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem LegionCoin peer-to-peer Netzwerk
+Comment[fr]=LegionCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LegionCoin, eşten eşe kriptografik sanal para birimi
+Exec=legioncoin-qt %u
+Terminal=false
+Type=Application
+Icon=legioncoin128
+MimeType=x-scheme-handler/legioncoin;
+Categories=Office;Finance;

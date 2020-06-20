@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/legioncoin_ar.qm</file>
+        <file alias="bg">locale/legioncoin_bg.qm</file>
+        <file alias="de">locale/legioncoin_de.qm</file>
+        <file alias="en">locale/legioncoin_en.qm</file>
+        <file alias="es">locale/legioncoin_es.qm</file>
+        <file alias="fi">locale/legioncoin_fi.qm</file>
+        <file alias="fr">locale/legioncoin_fr.qm</file>
+        <file alias="it">locale/legioncoin_it.qm</file>
+        <file alias="ja">locale/legioncoin_ja.qm</file>
+        <file alias="ko">locale/legioncoin_ko.qm</file>
+        <file alias="nl">locale/legioncoin_nl.qm</file>
+        <file alias="pl">locale/legioncoin_pl.qm</file>
+        <file alias="pt">locale/legioncoin_pt.qm</file>
+        <file alias="ru">locale/legioncoin_ru.qm</file>
+        <file alias="sk">locale/legioncoin_sk.qm</file>
+        <file alias="sv">locale/legioncoin_sv.qm</file>
+        <file alias="th">locale/legioncoin_th.qm</file>
+        <file alias="tr">locale/legioncoin_tr.qm</file>
+        <file alias="vi">locale/legioncoin_vi.qm</file>
+        <file alias="zh_CN">locale/legioncoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/legioncoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

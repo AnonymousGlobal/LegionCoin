@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[legioncoin.qt-translation-012x]
+file_filter = src/qt/locale/legioncoin_<lang>.ts
+source_file = src/qt/locale/legioncoin_en.ts
+source_lang = en

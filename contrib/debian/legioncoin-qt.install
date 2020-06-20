@@ -1,0 +1,6 @@
+usr/local/bin/legioncoin-qt usr/bin
+share/pixmaps/legioncoin32.xpm usr/share/pixmaps
+share/pixmaps/legioncoin16.xpm usr/share/pixmaps
+share/pixmaps/legioncoin128.png usr/share/pixmaps
+debian/legioncoin-qt.desktop usr/share/applications
+debian/legioncoin-qt.protocol usr/share/kde4/services/
