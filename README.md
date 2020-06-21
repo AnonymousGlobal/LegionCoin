@@ -41,6 +41,8 @@ RPC port: 20467
 
 P2P port: 20468
 
+Algorithm: X11
+
 Starting Block Reward: 10 coins
 
 Block Reward Halving: 100,000 blocks
