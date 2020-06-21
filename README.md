@@ -49,13 +49,13 @@ Total Coin Supply: 2,000,000 coins
 
 Life Of Chain: 28 years
 
---------------------------------------
-
 Website URL: http://www.LegionCoin.rf.gd
 
 Twitter: https://twitter.com/LegionCoin2
 
 Github URL: https://github.com/AnonymousGlobal/LegionCoin
+
+--------------------------------------
 
 Windows Download - https://mega.nz/file/HRJX0A4a#MInE7LCXPTRB24fQSmBpKJESD6ndQcnZMPUAXrT-Dgs
 
