@@ -1,7 +1,7 @@
 LegionCoin White Paper
 ----------------------
 
-June 18, 2020 - Mexico
+June 18, 2020 - Guanajuato, Mexico
 
 LegionCoin (LGNC) is a currency designed from the blockchain up for Anonymous and by Anons. The Global Collective of Anonymous has often been referred to as behaving like a nation-state. I believe Anonymous is in fact a trans-national state, and we deserve and need our own money. Resistance to Empire is never cheap, and revolutions cost money whether we like it or not. Now the Revolution has its own currency. LegionCoin addresses all the concerns that hacktivist and crypto-anarchists have had regarding the use of other crypto currencies.
 
